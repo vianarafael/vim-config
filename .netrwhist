@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/rafael/Projects/python_playground'
+let g:netrw_dirhist_4='/Users/rafael/Projects'
+let g:netrw_dirhist_3='/Users/rafael/Projects/llm_engineering'
+let g:netrw_dirhist_2='/Users/rafael/Projects'
+let g:netrw_dirhist_1='/Users/rafael/Projects/python_playground'
+let g:netrw_dirhist_0='/Users/rafael/Projects'
+let g:netrw_dirhist_9='/Users/rafael/Projects/python_playground'
+let g:netrw_dirhist_8='/Users/rafael/Projects'
+let g:netrw_dirhist_7='/Users/rafael/Projects/python_playground'
+let g:netrw_dirhist_6='/Users/rafael/Projects/your-lawyer-in-japan'
